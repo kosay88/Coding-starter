@@ -11,7 +11,7 @@ for(var i = 1; i <= 135; i++)
 
 for(var i = 0; i <= 135; i++)
 {
-    if((i%2)!=0)
+    if((i%2)!=0) // just one '('
     {
         console.log(i);
     }
