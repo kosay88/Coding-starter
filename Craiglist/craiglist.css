@@ -1,29 +1,35 @@
 
 .container{
-    background-color: rgba(231, 231, 231, 0.76);
+    background-color: rgba(197, 194, 194, 0.651);
     width: 700px;
+}
+body{
+    background-color: rgba(197, 194, 194, 0.651);
+}
+html{
+    background-color: white;
 }
 
 .block1{
-    background-color: rgb(255, 228, 175);
+    background-color: rgb(250, 247, 242);
     display: inline-block;
     vertical-align: 175px;
 }
 
 #box1{
-    background-color: rgb(250, 247, 242);
+    background-color: rgb(180, 179, 177);
 }
 
 
 .block2{
-    background-color: rgb(255, 228, 175);
+    background-color: rgb(250, 247, 242);
     display: inline-block;
     vertical-align: top;
     margin-left: 15px;
 }
 #box21{
     margin-top: -35px;
-    background-color: rgb(255, 228, 175);
+    background-color: rgb(250, 247, 242);
 }
 #blo2p1{
     margin-top: -1px;
@@ -35,7 +41,7 @@
 }
 
 .block3{
-    background-color: rgb(255, 228, 175);
+    background-color: rgb(250, 247, 242);
     display: inline-block;
     vertical-align: top;
     margin-left: 15px;
@@ -55,7 +61,7 @@
 }
 
 .block4{
-    background-color: rgb(255, 228, 175);
+    background-color: rgb(250, 247, 242);
     display: inline-block;
     vertical-align: top;
     margin-left: 15px;
