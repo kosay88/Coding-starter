@@ -1,0 +1,106 @@
+
+.container{
+width: 700px;
+margin: auto;
+}
+.navbar{
+    width: 675px;
+    background-color: #363636;
+    display: inline-block;
+}
+.imdblogo{
+    display: inline-block;
+    margin-top: 20px;
+}
+.search{
+    display: inline-block;
+    margin-top: -20px;
+}
+.background input{
+    height: 30px;
+}
+#quicksearch{
+    height: 33px;
+}
+
+.social{
+    display: inline-block;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+
+.social img{
+    border-radius: 30px;
+}
+
+li{
+    list-style-type: none;
+}
+.main_contain{
+    display: inline-block;
+    border-right: 3px solid gray;
+    width: 65%;
+
+}
+.widget_contain{
+    display: inline-block;
+    height: 240px;
+    background-color: #2D2D2D;
+    
+}
+.upcoming{
+    padding-bottom: 30px;
+}
+.posters{
+    margin-left: 10px;
+    padding-top: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: #4DC1F7
+}
+.right_side{
+    background-color: #DDDDDD; height: 546px;
+    display: inline-block;
+    width: 29%;
+    vertical-align: top;
+    padding-top: 15px;
+    padding-left: 10px;
+    margin-left: -5px;
+    padding-right: 4px;
+}
+
+.booking a{
+    background-color: #0463A4;
+    padding: 5px 10px;
+    text-align: center; 
+    display: inline-block;
+    color: white;
+}
+
+.footer{
+    background-color: #EAEAE9;
+    width: 675px;
+    padding-top: 10px;
+}
+
+.row_footer{
+    width: 300px;
+    font-size: 10px;
+}
+
+.row_footer img{
+    border-radius: 5px;
+}
+
+.footer2_part1{
+    display: inline-block;
+}
+.footer2_part2{
+    display: inline-block;
+    margin-left: 230px;
+}
+
+
+

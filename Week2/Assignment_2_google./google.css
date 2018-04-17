@@ -1,0 +1,33 @@
+
+.image{
+    display: inline-block;
+    margin: -15px;
+    margin-top: 150px;
+}
+
+.p{
+    margin-bottom: -15px;
+}
+
+.type_input{
+    margin: auto;
+   
+}
+
+.google_search{
+    display: inline-block;
+    margin: auto;
+}
+
+.lucky{
+ display: inline-block;
+ margin: auto;  
+}
+
+.moregoogle{
+    margin: auto
+}
+
+.copyright{
+    margin: auto;
+}
