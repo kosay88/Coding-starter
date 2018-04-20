@@ -1,0 +1,11 @@
+.container{
+    width: auto;
+    background-color: #1F2326;
+    text-align: center;
+}
+
+
+.container h4{
+    color: rgb(177, 177, 177);
+    margin-top: -40px;
+}
