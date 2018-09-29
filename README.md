@@ -1,2 +1,5 @@
-# calculator project:
-https://aquacalculator.000webhostapp.com/TheCalculator.html
+bootcamp level one, learning basic coding .
+Frontend: HTML5, CSS3, jQuery.
+Database: MySql.
+VC: GitHub.
+Frameworks: Codeigniter, Bootstrap.
